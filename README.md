@@ -58,12 +58,6 @@ Through this project, I improved my understanding of:
 * User Interface Design
 * Desktop Application Development
 
-## 🎥 Demo Video
-
-A complete demonstration of the application is available in the repository.
-
-https://github.com/memonaimash/codealpha_language-translation-tool/blob/main/language_translation_tool.mp4
-
 ## 👨‍💻 Author
 
 **Aimash Waheed**
